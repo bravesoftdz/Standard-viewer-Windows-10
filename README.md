@@ -9,7 +9,7 @@
 **Обратная связь**: r57zone[собака]gmail.com
 <br><br>
 
-##Windows Photo Viewer for Windows 10.
+## Windows Photo Viewer for Windows 10.
 
 **The application is no longer required** enough [to run the registry file](https://github.com/r57zone/Standard-viewer-Windows-10/blob/master/WindowsPhotoViewerWindows10.reg) and the program will appear in the dialogue "Open with".
 
